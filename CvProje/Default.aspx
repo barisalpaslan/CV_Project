@@ -75,7 +75,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         </div>
 		<!-- about -->
 <section class="slide-wrapper" id="about">
-	<h2 class="w3_head mb-4">Eğitim Hayatım </h2>
+	<h2 class="w3_head mb-4">Eğitim Hayatımmmm </h2>
 	<p class="iner mt-md-5"> 
 		<asp:Repeater ID="Repeater2" runat="server">
 				<ItemTemplate>
