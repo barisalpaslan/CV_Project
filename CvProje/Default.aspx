@@ -43,6 +43,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     </ItemTemplate>
                 </asp:Repeater>
             </h2>
+
+<%--            Veritabanına eklenecek bu kısım--%>
+                <p class="top_hdp mt-2">Merhaba, ben Barış Alp Aslan, 24
+                                        yaşındayım. Mesleğime yeni
+                                        teknolojileri öğrenmeye meraklı,
+                                        açık fikirli bir insan olarak başladım
+                                        ve bunu olabildiğince devam
+                                        ettirmek istiyorum.
+                </p>
         </div>
         <!-- header -->
         <header>
